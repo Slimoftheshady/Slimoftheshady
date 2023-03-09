@@ -1,2 +1,1 @@
-Hello
-I code
+print("Hello World!")
